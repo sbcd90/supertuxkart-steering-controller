@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+PySuperTuxKartData
+matplotlib
+imageio
+imageio[ffmpeg]
+tqdm
