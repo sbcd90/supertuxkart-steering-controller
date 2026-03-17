@@ -46,6 +46,6 @@ Now, run `supertuxkart with steering` predicted from this model.
 ```commandline
 python visualization.py
 ```
-[![supertuxkart with steering controller demo](thumbnail.png)](https://youtu.be/RaqJeXhENHI)
+[supertuxkart with steering controller demo](https://youtu.be/RaqJeXhENHI)
 
 Enjoy!!
